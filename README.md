@@ -7,7 +7,7 @@ Aiming at computer science. 台灣高中生,FRC 9427 程式組,做從真實需�
 
 | Project | Problem it addresses | Try it |
 | --- | --- | --- |
-| [**memrot**](https://github.com/frc9427liu-tech/memrot) | AI coding agents' memory files (`CLAUDE.md`, `AGENTS.md`, `MEMORY.md`) go stale and nobody notices. memrot finds dead paths, contradictions, bloat and broken encodings. Zero dependencies, fully local, no AI calls. | `node memrot.mjs <folder>` · [demo in README](https://github.com/frc9427liu-tech/memrot) |
+| [**memrot**](https://github.com/frc9427liu-tech/memrot) | AI coding agents' memory files (`CLAUDE.md`, `AGENTS.md`, `MEMORY.md`) go stale and nobody notices. memrot finds dead paths, contradictions, bloat and broken encodings. Zero dependencies, fully local, no AI calls. | `npx @leokai0322/memrot` · [demo in README](https://github.com/frc9427liu-tech/memrot) |
 | [**FRC9427-SimApp**](https://github.com/frc9427liu-tech/FRC9427-SimApp) | Test robot code without the robot. Unity desktop simulator for the 2026 REBUILT field, aligned to the real Java code, with an incremental updater and automated tests. | Download from Releases |
 | [**Portfolio site**](https://frc9427liu-tech.github.io/portfolio/) | One page that shows everything I build, organised by category. | Open in the browser |
 | [**small-tools**](https://frc9427liu-tech.github.io/small-tools/) | My mom spent 2–3 hours splitting group-buy orders and got some wrong. After interviewing her I built a two-view, tick-to-sync sorting helper. | Open in the browser |
