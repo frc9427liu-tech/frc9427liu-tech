@@ -18,6 +18,10 @@ Aiming at computer science. 台灣高中生,FRC 9427 程式組,做從真實需�
 - **Developer tools:** things I need myself first. memrot came out of running an AI assistant on real projects for months and watching its notes rot.
 - **Learning in public:** Python → APCS, then Java and systems.
 
+## Contact
+
+Instagram [@tinydev.studio](https://www.instagram.com/tinydev.studio/) — small tools, bots and web pages built to order. 接案請私訊。
+
 ## Principles
 
 - Start from a real person's problem, interview first, guess later.
